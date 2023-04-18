@@ -11,7 +11,18 @@ This unit converter project is a web-based application that allows users to easi
 
 Check out the Demo video to see it in action and let me know what you think! 🤔
 
-Demo Link :- Put Her Demo Video Link!
+Demo Link :- Put Here Demo Video Link!
+
+
+## Tech Stack
+
+**HTML:** The project's user interface was built using HTML, which is a markup language used for creating web pages.
+
+**CSS:**  The project's styles were implemented using CSS, which is a stylesheet language used for describing the look and formatting of a document written in HTML.
+
+**JavaScript:** Used for implementing the dynamic and interactive features of the web app.
+
+**Text Editor:** Used for writing and editing the code for the web app.
 
 ## Acknowledgements
 I would like to thank the creators of the open-source tools and libraries that I used to build this app, including [W3Schools](https://www.w3schools.com/whatis/) and [Stack Overflow](https://stackoverflow.com/documentation). Your work has been invaluable in helping me bring this project to life.
